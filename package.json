@@ -1,0 +1,28 @@
+{
+  "name": "botframework-demo",
+  "version": "1.0.0",
+  "description": "Dummy bot using Microsoft Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SITZ/botframework-demo.git"
+  },
+  "keywords": [
+    "Microsoft",
+    "Bot",
+    "Framework"
+  ],
+  "author": "Sitesh Shrivastava <siteshshrivastava@gmail.com> (http://www.siteshshrivastava.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SITZ/botframework-demo/issues"
+  },
+  "homepage": "https://github.com/SITZ/botframework-demo#readme",
+  "dependencies": {
+    "botbuilder": "0.8.0",
+    "restify": "4.0.4"
+  }
+}
